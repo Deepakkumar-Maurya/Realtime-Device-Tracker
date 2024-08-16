@@ -1,0 +1,24 @@
+{
+  "name": "realtime-device-tracker",
+  "version": "1.0.0",
+  "description": "Realtime device tracker",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Realtime",
+    "Leaflet",
+    "OpenStreetMap",
+    "Map",
+    "Tracking"
+  ],
+  "author": "Deepakkumar-Maurya",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
